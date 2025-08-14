@@ -4,6 +4,10 @@ A dynamic Nike clone front-end built with a sleek, modern design that closely mi
 
 **Tools Used:** HTML, CSS
 
+## Live Demo
+
+Access the website here: [https://nanigullipalli.github.io/Nike_clone/](https://nanigullipalli.github.io/Nike_clone/)
+
 ## Features
 - Modern, Nike-inspired UI
 - Responsive design for mobile and desktop
